@@ -1,0 +1,5 @@
+training_terraform/tp_2/.terraform.lock.hcl
+training_terraform/tp_2/.terraform/
+training_terraform/tp_2/devops-thierry.pem
+training_terraform/tp_2/terraform.tfstate
+training_terraform/tp_2/terraform.tfstate.backup
